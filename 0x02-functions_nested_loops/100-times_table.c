@@ -3,7 +3,7 @@
 /**
  * print_times_table - prints times table
  * @n : times table to use
- * Return: void
+ * Return:void
  */
 
 void print_times_table(int n)
@@ -40,7 +40,7 @@ void print_times_table(int n)
 			}
 			if (b < n)
 			{
-				_putchar(' ');
+				_putchar(',');
 				_putchar(' ');
 			}
 		}

@@ -28,6 +28,8 @@ int main(void)
 		{
 			if (i < p)
 				printf("Buzz ");
+			else
+				printf("Buzz");
 		}
 
 		else
